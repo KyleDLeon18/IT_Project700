@@ -1,0 +1,101 @@
+answer_id,answer_text,question_id,answer_value,category
+1,Large group interactions,1,E,E
+2,One-on-one conversations,1,I,I
+3,Spending time with friends or engaging in social activities,2,E,E
+4,Having some alone time to relax and unwind,2,I,I
+5,Brainstorming with others,3,E,E
+6,Working through it independently,3,I,I
+7,Social events and gatherings,4,E,E
+8,Quieter activities at home,4,I,I
+9,Enjoy it and find it easy to engage in,5,E,E
+10,Find it somewhat awkward or draining,5,I,I
+11,Rely on own instincts and feelings,6,I,I
+12,Seek input from others,6,E,E
+13,Embrace them with enthusiasm,7,E,E
+14,Approach them with caution,7,I,I
+15,Open office spaces and collaboration,8,E,E
+16,Individual workspaces,8,I,I
+17,Embrace it and feel at ease,9,E,E
+18,Prefer to avoid being the center of attention,9,I,I
+19,Social plans with friends,10,E,E
+20,Quiet time for yourself,10,I,I
+21,Initiate conversations and introductions,11,E,E
+22,Wait for others to approach you,11,I,I
+23,Rely on concrete facts and details,12,S,S
+24,Explore possibilities and potential meanings,12,N,N
+25,"Prefer practical, hands-on experiences",13,S,S
+26,Enjoy exploring theories and concepts,13,N,N
+27,Present and current details,14,S,S
+28,Future possibilities and patterns,14,N,N
+29,Detailed itinerary and clear schedule,15,S,S
+30,Leave room for spontaneous experiences and changes,15,N,N
+31,Based on practical considerations and real-world implications,16,S,S
+32,Consider potential outcomes and future possibilities,16,N,N
+33,Focus on specific tasks at hand,17,S,S
+34,Look at the overall vision and goals,17,N,N
+35,Stick to facts and details,18,S,S
+36,Contribute ideas and theories,18,N,N
+37,Prefer stability and may find changes challenging,19,S,S
+38,Adapt well to changes and enjoy the flexibility,19,N,N
+39,Specific details and occurrences,20,S,S
+40,Overall impressions and meanings,20,N,N
+41,Plot and events,21,S,S
+42,Deeper meanings and symbolism,21,N,N
+43,Clear and straightforward explanations,22,S,S
+44,Rich with possibilities and potential connections,22,N,N
+45,Past experiences and proven methods,23,S,S
+46,Innovative and creative solutions,23,N,N
+47,"Practical, actionable ideas",24,S,S
+48,"Imaginative, out-of-the-box concepts",24,N,N
+49,Step-by-step and methodical approach ,25,S,S
+50,Approaching with creativity and openness ,25,N,N
+51,Logical analysis and objective criteria ,26,T,T
+52,Consider the impact on people and relationships ,26,F,F
+53,Focus on the facts and seek constructive solutions ,27,T,T
+54,Consider the emotional aspects and how it affects relationships ,27,F,F
+55,Head and reason ,28,T,T
+56,Heart and empathy ,28,F,F
+57,Based on logical importance and efficiency ,29,T,T
+58,Considering the values and impact on people ,29,F,F
+59,Logical and rational choice ,30,T,T
+60,Aligns with personal values and harmony ,30,F,F
+61,Objective analysis ,31,T,T
+62,Consider the individual's feelings and emotional response ,31,F,F
+63,"Emphasize facts, evidence, and logical reasoning ",32,T,T
+64,"Consider personal values, emotions, and the impact on people ",32,F,F
+65,Prioritize efficiency and effectiveness ,33,T,T
+66,Consider the feelings of those involved ,33,F,F
+67,Objective performance metrics and results ,34,T,T
+68,Positive and supportive team culture ,34,F,F
+69,Focus on finding logical solutions and compromises ,35,T,T
+70,Focus on finding logical solutions and compromises ,35,F,F
+71,Logical steps and timeline ,36,T,T
+72,Emotional atmosphere and team dynamics ,36,F,F
+73,Analyze the situation logically and strategize a plan ,37,T,T
+74,Seek emotional support and consider the impact on relationships ,37,F,F
+75,Objective data and analysis ,38,T,T
+76,Constructive criticism and improvement suggestions ,38,F,F
+77,Personal values and the impact on people ,39,T,T
+78,Highlighting positive aspects and encouraging the individual ,39,F,F
+79,Enjoy making plans and prefer a structured schedule ,40,J,J
+80,"Prefer flexibility and spontaneity, dislike strict schedules ",40,P,P
+81,Prefer to have a detailed plan ,41,J,J
+82,Like to explore possibilities and figure it out as you go ,41,P,P
+83,Work diligently to meet deadlines well in advance ,42,J,J
+84,Tend to work better under pressure and close to the deadline ,42,P,P
+85,Prefer a clear and organized workspace ,43,J,J
+86,Comfortable with a more flexible and adaptable environment ,43,P,P
+87,Plan and make a checklist in advance ,44,J,J
+88,"Pack on the fly, throwing in what feels right ",44,P,P
+89,Dislike unexpected changes and prefer to stick to the original plan ,45,J,J
+90,Adapt well to unexpected changes and enjoy the flexibility ,45,P,P
+91,Consider the advantages and disadvantages prior to deciding ,46,J,J
+92,Go with the flow and see where it takes you ,46,P,P
+93,Like to have a set plan and follow it step by step ,47,J,J
+94,Enjoy being flexible and adapting as the situation evolves ,47,P,P
+95,To-do list with specific tasks and deadlines ,48,J,J
+96,Keep it open-ended and see where the day takes you ,48,P,P
+97,Prefer routine and find comfort in predictability ,49,J,J
+98,Dislike routine and enjoy spontaneity ,49,P,P
+99,Like to reach a conclusion and move on ,50,J,J
+100,Prefer to keep options open and gather more information ,50,P,P

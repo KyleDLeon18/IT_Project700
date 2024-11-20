@@ -1,0 +1,51 @@
+question_id,question_text,question_type
+1,"In a social gathering, do you feel more energized by interacting with a large group of people or by having one-on-one conversations?",multiple_choice
+2,How do you typically recharge after a busy day?,multiple_choice
+3,"When facing a challenge, do you prefer brainstorming ideas with others or working through it independently?",multiple_choice
+4,"In your free time, do you find yourself seeking out social events and gatherings or enjoying quieter activities at home?",multiple_choice
+5,How do you feel about small talk?,multiple_choice
+6,"When making decisions, do you rely more on your own instincts and feelings or seek input from others?",multiple_choice
+7,How do you handle new and unfamiliar situations?,multiple_choice
+8,"In a work or team setting, do you prefer open office spaces and collaboration or individual workspaces?",multiple_choice
+9,How do you typically respond to being the focal point in a group setting?,multiple_choice
+10,"When planning a weekend, do you lean towards social plans with friends or quiet time for yourself?",multiple_choice
+11,"When meeting new people, are you more likely to initiate conversations and introductions or wait for others to approach you?",multiple_choice
+12,"When faced with a problem, do you prefer to rely on concrete facts and details or explore possibilities and potential meanings?",multiple_choice
+13,How do you approach new information or learning?,multiple_choice
+14,"In a conversation, are you more focused on the present and current details or on future possibilities and patterns?",multiple_choice
+15,"When planning a trip, do you prefer to have a detailed itinerary and clear schedule or leave room for spontaneous experiences and changes?",multiple_choice
+16,How do you make decisions?,multiple_choice
+17,"When working on a project, do you tend to focus on the specific tasks at hand or the overall vision and goals?",multiple_choice
+18,"In a group discussion, do you prefer to stick to the facts and details or contribute ideas and theories?",multiple_choice
+19,How do you handle unexpected changes or disruptions to your plans?,multiple_choice
+20,"When recalling a past event, do you focus more on the specific details and occurrences or the overall impressions and meanings?",multiple_choice
+21,"When reading a book or watching a movie, do you pay close attention to the plot and events or look for deeper meanings and symbolism?",multiple_choice
+22,How do you prefer to receive information?,multiple_choice
+23,"When faced with a decision, do you rely more on your past experiences and proven methods or seek out innovative and creative solutions?",multiple_choice
+24,"In a brainstorming session, do you tend to come up with practical, actionable ideas or imaginative, out-of-the-box concepts?",multiple_choice
+25,How do you approach problem-solving?,multiple_choice
+26,"When making decisions, do you prioritize logical analysis and objective criteria or consider the impact on people and relationships?",multiple_choice
+27,How do you handle criticism or feedback?,multiple_choice
+28,"When faced with a problem, do you rely more on your head and reason or your heart and empathy?",multiple_choice
+29,How do you prioritize tasks and responsibilities?,multiple_choice
+30,"In a group decision-making process, do you tend to advocate for the most logical and rational choice or the one that aligns with personal values and harmony?",multiple_choice
+31,"When giving feedback, do you focus on providing objective analysis or consider the individual feelings and emotional response?",multiple_choice
+32,How do you express your opinions in a debate or discussion?,multiple_choice
+33,"When solving a problem, do you prioritize efficiency and effectiveness, even if it means being blunt, or do you consider the feelings of those involved?",multiple_choice
+34,"In a work environment, do you value objective performance metrics and results or prioritize a positive and supportive team culture?",multiple_choice
+35,How do you approach conflict resolution?,multiple_choice
+36,"When planning an event or project, do you prioritize the logical steps and timeline or consider the emotional atmosphere and team dynamics?",multiple_choice
+37,How do you cope with stress or pressure?,multiple_choice
+38,"When making decisions, what holds more weight for you?",multiple_choice
+39,"When providing feedback, do you prioritize offering constructive criticism and improvement suggestions or highlighting positive aspects and encouraging the individual?",multiple_choice
+40,How do you feel about making plans and sticking to a schedule?,multiple_choice
+41,"When starting a project, do you prefer to have a detailed plan in place or do you like to explore possibilities and figure it out as you go?",multiple_choice
+42,How do you approach deadlines?,multiple_choice
+43,"In a work setting, do you prefer a clear and organized workspace or are you comfortable with a more flexible and adaptable environment?",multiple_choice
+44,"When packing for a trip, do you plan and make a checklist in advance or pack on the fly, throwing in what feels right at the moment?",multiple_choice
+45,What do you do when your plans suddenly change?,multiple_choice
+46,"When faced with a new opportunity, do you prefer to consider the advantages and disadvantages prior to making a decision or go with the flow and see where it takes you?",multiple_choice
+47,How do you approach work tasks?,multiple_choice
+48,"When organizing your day, do you prefer to have a to-do list with specific tasks and deadlines or keep it open-ended and see where the day takes you?",multiple_choice
+49,How do you feel about routine and predictability?,multiple_choice
+50,"In a decision-making process, do you like to reach a conclusion and move on or prefer to keep options open and gather more information?",multiple_choice

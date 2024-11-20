@@ -1,0 +1,2 @@
+user_id,email,password,name,surname,mobile_number,date_of_birth,education_level
+88,kenny@gmail.com,scrypt:32768:8:1$QcEM3LDeQrAsnnEv$a1f6707a31b1e34e97fc4e3c52a5b75618779facb08d7484b46fced3b89fab5f5f4f32156324697acb224aa0a676d380578750488f5d97b7fb5a0c1ce86969f4,kenny,G,0782899639,2005-05-05,University
